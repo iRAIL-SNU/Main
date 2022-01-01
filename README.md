@@ -6,7 +6,7 @@
 ([SNU](https://en.snu.ac.kr/index.html))
 ([SNUH](http://www.snuh.org/global/en/main.do))
 
-> [Recruitment / 모집요강](http://irail.snu.ac.kr/)  
+> [Recruitment / 모집요강](https://github.com/iRAIL-SNU/Main/blob/main/recruit/2022_recruit.md)  
 > We are currently recruiting **graduate students** and **internship researcher**.  
 > 현재 2022년도 **대학원생**과 **인턴연수생** 모집이 열려있습니다.
 
