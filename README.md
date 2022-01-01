@@ -15,12 +15,6 @@ Our main research topics include the development/validation and clinical applica
 
 **iRAIL**은 인류 건강 증진에 기여하는 것을 목표로 서울대병원의 임상의사 및 의과학연구자와 서울대 공대의 AI엔지니어로 이루어진 의료영상인공지능 연구실입니다. 딥러닝 기반의 흉부 X-ray 진단 연구를 세계 최초로 수행하여 세계 최대 규모 학회인 RSNA 2016에서 발표하였고, 200여편의 SCI 논문과 40여건의 특허 및 기술이전 실적을 보유하고 있으며, 다양한 공학 연구진 및 기업들과 협력 연구를 진행하고 있습니다. 특히 폐암(암 사망률 1위)과 결핵(감염성 질병 사망률 1위) 등 인류 건강을 위협하는 주요 흉부 질환을 극복하기 다양한 연구를 수행하고 있습니다.
 
-
-## Recent publications
-([Selected papers](https://github.com/iRAIL-SNU/Main/blob/main/papers/papers.md))
-### - 2022
-...
-
 ## Reasearch interests
 
 - 딥러닝을 이용한 폐결절 분류 및 폐암 진단 시스템 개발
@@ -33,3 +27,8 @@ Our main research topics include the development/validation and clinical applica
 - 생성모델을 사용한 Anomaly detection 기반의 설명가능한 흉부 X-ray 주요질환 모델 개발
 - 합성 응급영상 생성을 위한 데이터셋 구축 및 유효성 평가
 - 흉부 X-ray 및 판독문 기반 Vision-Language Multi-modal 연구
+
+## Recent publications
+([Selected papers](https://github.com/iRAIL-SNU/Main/blob/main/papers/papers.md))
+### - 2022
+...
