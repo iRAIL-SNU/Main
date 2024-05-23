@@ -8,7 +8,7 @@
 
 > [Recruitment / 모집요강](https://github.com/iRAIL-SNU/Main/blob/main/recruit/2022_recruit.md)  
 > We are currently recruiting **graduate students** and **internship researchers**.  
-> 현재 2022년도 **대학원생**과 **인턴연수생** 모집이 열려있습니다.
+> 현재 2024년도 **대학원생**과 **인턴연수생** 모집이 열려있습니다.
 
 Our mission of the **innovative Radiology AI Laboratory (iRAIL)** is to improve diagnostic accuracy, health outcomes of diseased patients and finally enhance the health condition of global people through AI technology. 
 Our main research topics include the development/validation and clinical application of AI technology for radiology imaging.
@@ -30,5 +30,3 @@ Our main research topics include the development/validation and clinical applica
 
 ## Recent publications
 ([Selected papers](https://github.com/iRAIL-SNU/Main/blob/main/papers/papers.md))
-### - 2022
-...
